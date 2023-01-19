@@ -7,6 +7,7 @@
 #btn:hover{
 	background-color:yellow;
 	color:black;
+	border:none;
 	border-radius:30px;
 }
 /* Your CSS Code here. */
